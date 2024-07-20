@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[step1]]>
+    </line>
+    <line>
+      <![CDATA[step2]]>
+    </line>
+    <line>
+      <![CDATA[step3]]>
+    </line>
+    <line>
+      <![CDATA[step4]]>
+    </line>
+    <line>
+      <![CDATA[step5]]>
+    </line>
+    <line>
+      <![CDATA[step6]]>
+    </line>
+    <line>
+      <![CDATA[step7]]>
+    </line>
+    <line>
+      <![CDATA[step8]]>
+    </line>
+    <line>
+      <![CDATA[step9]]>
+    </line>
+    <line>
+      <![CDATA[step10]]>
+    </line>
+    <line>
+      <![CDATA[step11]]>
+    </line>
+    <line>
+      <![CDATA[step12]]>
+    </line>
+    <line>
+      <![CDATA[step13]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-21T00:23:15 IST" name="Default suite" finished-at="2024-07-21T00:23:33 IST" duration-ms="17408">
+    <groups>
+    </groups>
+    <test started-at="2024-07-21T00:23:15 IST" name="Default test" finished-at="2024-07-21T00:23:33 IST" duration-ms="17408">
+      <class name="StudentManagementSystem.EventVerifyByTeacher">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:14 IST" name="configBS" finished-at="2024-07-21T00:23:15 IST" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:15 IST" name="configBC" finished-at="2024-07-21T00:23:17 IST" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:17 IST" name="configBM" finished-at="2024-07-21T00:23:21 IST" duration-ms="4273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="EventsVerifyByTeacher()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:21 IST" name="EventsVerifyByTeacher" finished-at="2024-07-21T00:23:32 IST" duration-ms="10831" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[step1]]>
+            </line>
+            <line>
+              <![CDATA[step2]]>
+            </line>
+            <line>
+              <![CDATA[step3]]>
+            </line>
+            <line>
+              <![CDATA[step4]]>
+            </line>
+            <line>
+              <![CDATA[step5]]>
+            </line>
+            <line>
+              <![CDATA[step6]]>
+            </line>
+            <line>
+              <![CDATA[step7]]>
+            </line>
+            <line>
+              <![CDATA[step8]]>
+            </line>
+            <line>
+              <![CDATA[step9]]>
+            </line>
+            <line>
+              <![CDATA[step10]]>
+            </line>
+            <line>
+              <![CDATA[step11]]>
+            </line>
+            <line>
+              <![CDATA[step12]]>
+            </line>
+            <line>
+              <![CDATA[step13]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EventsVerifyByTeacher -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:32 IST" name="configAM" finished-at="2024-07-21T00:23:32 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:32 IST" name="configAC" finished-at="2024-07-21T00:23:33 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:StudentManagementSystem.EventVerifyByTeacher@7c7a06ec]" started-at="2024-07-21T00:23:33 IST" name="configAS" finished-at="2024-07-21T00:23:33 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- StudentManagementSystem.EventVerifyByTeacher -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
